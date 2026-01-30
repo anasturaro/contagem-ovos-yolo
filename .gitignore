@@ -13,8 +13,7 @@ runs/
 # Vídeos e imagens de saída
 *.mp4
 *.avi
-*.jpg
-*.png
+
 
 # OpenCV temporários
 *.log
